@@ -108,9 +108,9 @@ Run all cells to train and evaluate the model.
 
 
 
-The model is trained on a Heart Disease dataset (such as the Cleveland Heart Disease dataset
+The model is trained on a Heart Disease dataset (such as the Cleveland Heart Disease dataset).
 
-).
+
 
 You can replace it with any similar dataset for experiments.
 
@@ -147,4 +147,5 @@ UCI Machine Learning Repository for the dataset
 
 
 TensorFlow \& Scikit-learn for machine learning frameworks
+
 
